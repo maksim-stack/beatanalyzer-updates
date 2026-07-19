@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "apkUrl": "https://github.com/maksim-stack/beatanalyzer-updates/releases/download/v1.0.1/BeatAnalyzer-1.0.1.apk",
-  "notes": "Точность частот до 7 знаков, тёмная тема"
+  "version": "1.0.2",
+  "apkUrl": "https://github.com/maksim-stack/beatanalyzer-updates/releases/download/v1.0.2/BeatAnalyzer-1.0.2.apk",
+  "notes": "Допуск теперь отображается с точностью до 3 знаков после запятой."
 }
